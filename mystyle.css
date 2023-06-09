@@ -18,3 +18,8 @@ h1:hover {
     padding: 20px;
     text-align: center;
 }
+#button{
+    color:blue;
+    padding:10px;
+    border: 2px solid rgb(0, 0, 0);
+}
